@@ -1,3 +1,4 @@
+./pymoose_wheels/pymoose-4.0.0.dev20220620-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
 vpython==7.6.3
 jupyterlab==3.2.8
 jupyterlab-vpython==3.1.3
